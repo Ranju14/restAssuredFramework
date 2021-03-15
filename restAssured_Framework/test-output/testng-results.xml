@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-15T17:23:15 AEDT" name="Default suite" finished-at="2021-03-15T17:23:19 AEDT" duration-ms="4147">
+    <groups>
+    </groups>
+    <test started-at="2021-03-15T17:23:15 AEDT" name="Default test" finished-at="2021-03-15T17:23:19 AEDT" duration-ms="4147">
+      <class name="serviceRequest.GetData">
+        <test-method signature="getResposeData()[pri:0, instance:serviceRequest.GetData@4034c28c]" started-at="2021-03-15T17:23:15 AEDT" name="getResposeData" finished-at="2021-03-15T17:23:19 AEDT" duration-ms="4112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResposeData -->
+      </class> <!-- serviceRequest.GetData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
